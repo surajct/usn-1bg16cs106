@@ -1,35 +1,4 @@
-//decision making
-/*
-var age=18;
-if(age<18){
-    console.log("minor");
 
-}else if (age >=18){
-    console.log("major");
-
-}
-
-age>=18?console.log("major"):console.log("minor");
-*/
-/*
-function suraj (firstname,lastname)
-{
-    console.log(firstname+'-'+lastname);
-
-}
-suraj('abc','hajsh');
-   
-//array
-
-var ab=['avbs','gsahsb','hasgh'];
-console.log(ab)
-ab.push("hhhhhhh");
-console.log(ab)
-ab.unshift("hhsshashh");
-console.log(ab)
-ab.pop()
-console.log(ab)
-*/
 
 
 var bill =[124,48,268]
